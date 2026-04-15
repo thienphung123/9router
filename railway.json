@@ -4,6 +4,6 @@
     "builder": "RAILPACK"
   },
   "deploy": {
-    "startCommand": "npm run start"
+    "startCommand": "node .next/standalone/server.js"
   }
 }
