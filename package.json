@@ -12,6 +12,7 @@
     "start:bun": "NODE_ENV=production bun ./.next/standalone/server.js"
   },
   "dependencies": {
+    "prop-types": "^15.8.1",
     "@monaco-editor/react": "^4.7.0",
     "@xyflow/react": "^12.10.1",
     "bcryptjs": "^3.0.3",
